@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MiprimerReact/static/css/main.f763d0c3.css",
+    "main.js": "/MiprimerReact/static/js/main.7413bae1.js",
+    "static/js/592.09e43768.chunk.js": "/MiprimerReact/static/js/592.09e43768.chunk.js",
+    "index.html": "/MiprimerReact/index.html",
+    "main.f763d0c3.css.map": "/MiprimerReact/static/css/main.f763d0c3.css.map",
+    "main.7413bae1.js.map": "/MiprimerReact/static/js/main.7413bae1.js.map",
+    "592.09e43768.chunk.js.map": "/MiprimerReact/static/js/592.09e43768.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f763d0c3.css",
+    "static/js/main.7413bae1.js"
+  ]
+}
